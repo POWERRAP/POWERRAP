@@ -8,3 +8,6 @@
 ## Mis Repositorios
 
 [Mi repositorio de prueba](https://github.com/POWERRAP/MiPrimer_Repositorio) Este es mi primer respositorio
+
+# Mis estadisticas en Github
+[![Hua's github stats](https://github-readme-stats.vercel.app/api?username=POWERRAP&show_icons=true&theme=dark)](https://github.com/POWERRAP/github-readme-stats)
