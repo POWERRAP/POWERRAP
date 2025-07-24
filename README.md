@@ -1,17 +1,16 @@
-# Hola a todos! Bienvenidos a mi perfil de GitHub
+# Python Portfolio - Mohamed el Kaddouri Aariba
 
-### Aqui podras encontrar todo el codigo que he ido aprendiendo y proyectos en los que estoy trabajando.
+Welcome to my repository where I will be uploading my projects made with Python.
 
-![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLZPzDHPnj6LgwwnL2Ojw5aIHO23Z1LTIR4A&s)
+I am currently studying a Python bootcamp at Tokio School and focusing on automations and, soon, on artificial intelligence and machine learning.
 
+Here you will find scripts, automation projects, and future developments related to AI.
 
-## Mis Repositorios
+Thank you for visiting!
 
-[Mi repositorio de prueba](https://github.com/POWERRAP/MiPrimer_Repositorio) Este es mi primer respositorio
+---
 
-# Mis estadisticas en Github
-[![Hua's github stats](https://github-readme-stats.vercel.app/api?username=POWERRAP&show_icons=true&theme=dark)](https://github.com/POWERRAP/github-readme-stats)
+## Contact
 
-### Contact:
-
-[![Gmail Badge](https://img.shields.io/badge/-mohamed.elka@hotmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mohamed.elka@hotmail.com)]
+- GitHub: [https://github.com/POWERRAP](https://github.com/POWERRAP)
+- [![Gmail Badge](https://img.shields.io/badge/-mohamed.elka@hotmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mohamed.elka@hotmail.com)]
