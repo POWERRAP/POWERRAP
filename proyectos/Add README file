@@ -1,0 +1,11 @@
+# Renombrador de Archivos en Python
+
+Este es un script sencillo en Python que renombra todos los archivos dentro de una carpeta específica, asignándoles un nuevo nombre con un prefijo y un número secuencial, manteniendo la extensión original.
+
+## Cómo usarlo
+
+1. Coloca los archivos que quieres renombrar dentro de la carpeta `archivos_a_renombrar`.
+2. Modifica la variable `folder_path` en `renombrador.py` para que apunte a la ruta correcta de esa carpeta.
+3. Ejecuta el script con:
+   ```bash
+   python renombrador.py
